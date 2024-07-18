@@ -44,9 +44,3 @@ This project implements a Gomoku AI bot capable of playing the game on a 20x20 b
 ## Author
 - Matthis Brocheton
 - Louis de Caumont
-
-## License
-This project is licensed under the [License Name] License - see the LICENSE file for details.
-
-## Acknowledgments
-- Mention any acknowledgments or resources used in developing the bot (e.g., references to algorithms, inspiration from other projects).
