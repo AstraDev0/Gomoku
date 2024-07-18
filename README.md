@@ -14,7 +14,6 @@ This project implements a Gomoku AI bot capable of playing the game on a 20x20 b
 - **Language:** Implemented in C++.
 - **Compilation:** Managed via Makefile supporting `make`, `re`, `clean`, and `fclean` commands.
 - **Source Files:** All relevant source files, excluding unnecessary files like binaries or temporary files, are included.
-- **Bonus Files:** Additional files, including a specific Makefile if any, are contained in the `bonus` directory.
 
 ## Game Rules
 - Players take turns placing stones on the board.
