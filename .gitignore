@@ -1,0 +1,11 @@
+/pbrain-gomoku-ai
+/cmake-build-debug
+/arguments.txt
+/CMakeSettings.json
+/clean-all.cmake
+*.o
+.vscode
+.idea
+/build
+.idea
+/tests
